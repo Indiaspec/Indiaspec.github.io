@@ -1,5 +1,6 @@
 body{
 	font-family: sans-serif;
+	padding: 50px;
 }
 
 .topic-heading{
@@ -18,4 +19,12 @@ div.topic-infograph{
     height: auto;
     margin: 0 auto;
     cursor: pointer;
+}
+
+.topic-discussion {
+	padding-top: 30px;
+}
+
+.topic-date {
+	font-size: 12px;
 }
