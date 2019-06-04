@@ -28,3 +28,8 @@ div.topic-infograph{
 .topic-date {
 	font-size: 12px;
 }
+
+.topic-comments{
+	width: 800px;
+	margin: 0 auto;
+}
